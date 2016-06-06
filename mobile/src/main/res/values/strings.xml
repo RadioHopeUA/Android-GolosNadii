@@ -1,7 +1,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name" translatable="false">Голос Надії</string>
 
-    <string name="radio_stream_url" translatable="false">http://stream.hope.ua:1935/hopefm/ngrp:live/playlist.m3u8</string>
+    <string name="radio_stream_url" translatable="false">https://stream.hope.ua/golos-nadii/ngrp:live/playlist.m3u8</string>
     <string name="radio_info_url" translatable="false">http://stream.hope.ua:7777/currentsong?sid=11</string>
     <string name="website_url" translatable="false">http://radio.hope.ua</string>
     <string name="fb_url" translatable="false">https://www.facebook.com/golosnadii</string>
