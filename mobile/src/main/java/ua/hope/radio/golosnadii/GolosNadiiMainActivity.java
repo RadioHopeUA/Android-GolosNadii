@@ -10,7 +10,6 @@ import android.os.Handler;
 import android.os.IBinder;
 import android.os.Message;
 import android.support.v7.app.AppCompatActivity;
-import android.text.Html;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
@@ -102,7 +101,6 @@ public class GolosNadiiMainActivity extends AppCompatActivity implements View.On
         songNameText.setText("");
         artistNameText = (TextView) findViewById(R.id.textArtistName);
         artistNameText.setText("");
-        TextView hopeFMText = (TextView) findViewById(R.id.hopeFMText);
 
         mPopupMenu = new PopupMenu(this, audioButton);
         mPopupMenu.setOnMenuItemClickListener(new PopupMenu.OnMenuItemClickListener() {

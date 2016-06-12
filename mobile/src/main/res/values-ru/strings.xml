@@ -1,4 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
+    <string name="audio">Аудио</string>
+    <string name="copyright_capture">© 2016 Медиа Группа «Надія»</string>
+    <string name="facebook">Фейсбук</string>
+    <string name="radio_capture">Радио</string>
+    <string name="status_buffering">буферизация</string>
+    <string name="status_error">ошибка</string>
+    <string name="status_preparing">инициализация</string>
+    <string name="twitter">Твиттер</string>
+    <string name="vkontakte">Вконтакте</string>
+    <string name="web_page">Веб страница</string>
+    <string name="write_us">Обратная связь</string>
+    <string name="hope_radio">Радио дарящее надежду …</string>
 </resources>
