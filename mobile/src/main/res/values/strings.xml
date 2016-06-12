@@ -20,6 +20,9 @@
     <string name="storage_permission_denied" translatable="false">Permission to access storage was denied</string>
 
     <string name="audio">Audio</string>
+    <string name="audio_kbits">%.0fKbit</string>
+    <string name="audio_unknown">unknown</string>
+    <string name="audio_auto">auto</string>
     <string name="radio_capture">Radio</string>
     <string name="copyright_capture">© 2016 Hope Media Group UA</string>
     <string name="hope_radio">Hope giving radio …</string>
