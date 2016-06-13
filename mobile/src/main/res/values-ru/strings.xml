@@ -12,7 +12,7 @@
     <string name="web_page">Веб страница</string>
     <string name="write_us">Обратная связь</string>
     <string name="hope_radio">Радио дарящее надежду …</string>
-    <string name="audio_auto">Автоматично</string>
+    <string name="audio_auto">Автоматически</string>
     <string name="audio_kbits">%.0fКбит</string>
     <string name="audio_unknown">неизвестно</string>
 </resources>

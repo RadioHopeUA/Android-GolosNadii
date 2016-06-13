@@ -88,8 +88,8 @@
 
             <ImageView
                 android:id="@+id/golosNadiiLogo"
-                android:layout_width="96dp"
-                android:layout_height="96dp"
+                android:layout_width="74dp"
+                android:layout_height="74dp"
                 android:layout_centerInParent="true"
                 android:layout_marginLeft="20dp"
                 android:layout_marginRight="20dp"
