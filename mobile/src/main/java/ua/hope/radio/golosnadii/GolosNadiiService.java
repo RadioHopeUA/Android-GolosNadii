@@ -134,7 +134,9 @@ public class GolosNadiiService extends Service implements GolosNadiiPlayer.Liste
     }
 
     private void stopTrackInfoScheduler() {
-        mScheduledTask.cancel(true);
+        if (mScheduledTask != null) {
+            mScheduledTask.cancel(true);
+        }
         exec.remove(updateTrackRunnable);
         exec.purge();
     }
